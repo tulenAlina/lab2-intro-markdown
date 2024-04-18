@@ -5,3 +5,7 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of Yaktocat]([https://www.google.com/search?channel=fs&client=ubuntu-sn&q=rfhnbyrb#vhid=R-GbI2nl1ThhHM&vssid=l])
+
+``` javascript
+var myVar = "Hello, world!";
+```
